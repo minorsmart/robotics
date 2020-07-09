@@ -1,0 +1,11 @@
+name: "HAN MSI"
+output_dir: "."
+navbar:
+  title: "HAN MSI Robotics"
+  left:
+    - text: "Welkom"
+      href: index.html
+    - text: "Programma"
+      href: programma.html
+    - text: "Resources"
+      href: resources.html
