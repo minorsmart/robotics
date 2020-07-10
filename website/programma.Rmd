@@ -13,8 +13,25 @@ knitr::kable(data)
   
 ```
 
-<hr>
+<br><br>
 
-WHAT
+## Casus
+
+#### We-Cobot
+
+*Beschrijving*
+
+<br>
+
+#### Smart Part
+
+*Beschrijving*
+
+<br>
+
+#### Vraagstukken
+
+Tekst
+
 
 

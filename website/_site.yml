@@ -9,3 +9,6 @@ navbar:
       href: programma.html
     - text: "Resources"
       href: resources.html
+output:
+  html_document:
+    theme: united
