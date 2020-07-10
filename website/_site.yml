@@ -1,7 +1,7 @@
 name: "HAN MSI"
 output_dir: "."
 navbar:
-  title: "HAN MSI Robotics"
+  title: "HAN MSI"
   left:
     - text: "Welkom"
       href: index.html
