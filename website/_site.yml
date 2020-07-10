@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "HAN MSI"
   left:
-    - text: "Welkom"
+    - text: "Start"
       href: index.html
-    - text: "Programma"
+    - text: "Activiteiten"
       href: programma.html
     - text: "Inspiratie"
       href: inspiratie.html

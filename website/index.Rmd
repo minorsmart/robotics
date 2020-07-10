@@ -1,38 +1,21 @@
 ---
-title: "Robotics"
+title: "Smart Industry"
 ---
+<hr>
+
+<img src="media/smartbus.svg"/>
 
 <hr>
 
-## Smart Industry
+## Challenge
 
-Smart Industry is de verregaande digitalisering van apparaten, productiemiddelen en organisaties. Via het ‘internet of things’ zijn deze onderling verbonden, en doen ze nieuwe manieren van produceren, businessmodellen en sectoren ontstaan.
+Ontwerp een Dark Factory, bouw een demo en onderzoek de business case voor je idee.
 
-Slimme industrieën hebben een grote grondstoffen- en kostenefficiëntie en ze kunnen heel flexibel produceren, zowel in termen van het product (specificaties, kwaliteit, design), het volume (hoeveelheid) als de levertijd.
-
-Volgens de Implementatieagenda 2018-2021 moet Nederland in 2021 het meest flexibele en het beste digitaal verbonden productienetwerk van Europa hebben. De agenda is opgesteld door de partners van het Smart Industry Team: FME, het ministerie van Economische Zaken en Klimaat, de Kamer van Koophandel, de Koninklijke Metaalunie en TNO.
-
-<br><br>
-
-## Robots
-
-Tekst
-
-<div>
-<video width="320" height="240" controls>
-  <source src="media/lasrobot.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
 <hr>
-
-Tekst
-
-<br><br>
 
 ## Leeruitkomsten
 
-Student:
+Smartie:
 
 1. past nieuwe technologieën op het gebied van van IoT, Robotica en 3D-printen toe op een praktijkcasus
 2. plaatst de casus in een business context

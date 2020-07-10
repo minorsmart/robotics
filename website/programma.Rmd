@@ -5,7 +5,7 @@ title: "Programma"
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(DT)
 
-Tijd <- c("Dag 1", "Dag 2", "Dag 3")
+Tijd <- c("Dagdeel 1", "Dagdeel 2", "Dagdeel 3 + 4")
 Activiteit <- c("Masterclass Robotics", "Dark Factory Design Thinking", "Dark Factory Build Day")
 
 data = data.frame(Tijd, Activiteit)
@@ -29,9 +29,15 @@ knitr::kable(data)
 
 <br>
 
-#### Vraagstukken
+#### Dark Factory
 
-Tekst
+*Beschrijving*
+
+<br>
+
+## Vervolgonderzoek
+
+Na de challenge onderzoekt de Smartie welke obstakels de adoptie van Smart Technologies bij het MKB afremmen en op welke wijze de adoptie kan worden versneld.
 
 
 
