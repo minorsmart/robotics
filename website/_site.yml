@@ -1,7 +1,7 @@
 name: "HAN MSI"
 output_dir: "."
 navbar:
-  title: "HAN MSI"
+  title: "<img id=\"logo\" style=\"width: 90px; margin-top: -5px\" src=\"media/logo.jpg\" />"
   left:
     - text: "Start"
       href: index.html
