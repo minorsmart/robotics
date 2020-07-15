@@ -39,5 +39,9 @@ knitr::kable(data)
 
 Na de challenge onderzoekt de Smartie welke obstakels de adoptie van Smart Technologies bij het MKB afremmen en op welke wijze de adoptie kan worden versneld.
 
+## NB
+
+Welllicht Dark Procution Cell bij EromesMarko als casus?
+
 
 

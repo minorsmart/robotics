@@ -9,7 +9,7 @@ title: "Smart Industry"
 
 ## Challenge
 
-Ontwerp een Dark Factory, bouw een demo en onderzoek de business case voor je idee.
+Ontwerp een Dark Factory / Production Cell, bouw een demo en onderzoek de business case voor je idee.
 
 <hr>
 
